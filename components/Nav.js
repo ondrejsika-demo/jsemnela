@@ -6,7 +6,7 @@ export default () => {
   return (
     <Row style={{ marginBottom: "30px", marginTop: "30px" }}>
       <Col>
-        <h1>@jsemnela</h1>
+        <h1>I'm Nela (the Doggo)</h1>
       </Col>
       <Col sm={8} style={{ textAlign: "right" }}>
         <Button href="/">About me</Button>
